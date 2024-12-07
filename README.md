@@ -9,8 +9,6 @@ Hi, I'm Kwang Chen (KC), a Computer Science undergraduate at **Nanyang Technolog
   [![Gmail Badge](https://img.shields.io/badge/Gmail-Kwangchen1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Kwangchen1997@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-@thewicked_lionil-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thewicked_lionil)
 
-
-
 ---
 
 ## 🚀 Tech Stack
@@ -19,6 +17,7 @@ Hi, I'm Kwang Chen (KC), a Computer Science undergraduate at **Nanyang Technolog
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -29,6 +28,8 @@ Hi, I'm Kwang Chen (KC), a Computer Science undergraduate at **Nanyang Technolog
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Testing Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
