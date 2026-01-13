@@ -7,7 +7,7 @@ Hi, I'm Kwang Chen (KC), a Computer Science undergraduate at **Nanyang Technolog
   - Open to **Web Development** and **Art collaborations**.  
 ---
   [![Gmail Badge](https://img.shields.io/badge/Gmail-Kwangchen1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Kwangchen1997@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-@thewicked_lionil-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ba_na_na_cat_)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-@ba_na_na_cat_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ba_na_na_cat_)
 
 ---
 
